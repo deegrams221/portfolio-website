@@ -2263,6 +2263,10 @@ input, select, textarea {
 			border: 2px solid darkcyan;
 		}
 
+		.single-page-app-image {
+			border: 2px solid turquoise;
+		}
+
 		.image.left {
 			float: left;
 			margin: 0 1.5em 1em 0;
