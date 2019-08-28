@@ -2239,6 +2239,30 @@ input, select, textarea {
 			display: block;
 		}
 
+		.project-image {
+			width: 30vw;
+		}
+
+		.wanderlust-image {
+			border: 2px solid slategrey;
+		}
+
+		.github-usercard-image {
+			border: 2px solid darkblue;
+		}
+
+		.newsfeed-components-image {
+			border: 2px solid black;
+		}
+
+		.react-wars-image {
+			border: 2px solid darkgrey;
+		}
+
+		.npod-image {
+			border: 2px solid darkcyan;
+		}
+
 		.image.left {
 			float: left;
 			margin: 0 1.5em 1em 0;
@@ -2933,8 +2957,8 @@ input, select, textarea {
 		/* Main */
 
 			.main .image.primary {
-				display: block;
-				margin: 0 0 4em 0;
+				display: none;
+				/* margin: 0 0 4em 0; */
 			}
 
 			.main .container {
@@ -2956,6 +2980,12 @@ input, select, textarea {
 				margin-left: -40%;
 				padding: 3em;
 			}
+
+		/* Image */
+			.project-image {
+				width: 60vw;
+			}
+
 
 		/* Footer */
 
