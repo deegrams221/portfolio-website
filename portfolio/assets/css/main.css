@@ -1928,11 +1928,12 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #a8b0b3;
+		color: #fcf9ea;
 		letter-spacing: 0.05em;
 		text-transform: uppercase;
-		width: 50vw !important;
+		width: 55vw !important;
 		margin: 0 auto !important;
+		padding-top: 20px !important;
 	}
 
 	header h1 + p {
