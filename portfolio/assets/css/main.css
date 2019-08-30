@@ -149,7 +149,7 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0;
+		margin: 0 auto;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -1928,9 +1928,12 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #a8b0b3;
+		color: #fcf9ea;
 		letter-spacing: 0.05em;
 		text-transform: uppercase;
+		width: 55vw !important;
+		margin: 0 auto !important;
+		padding-top: 20px !important;
 	}
 
 	header h1 + p {
